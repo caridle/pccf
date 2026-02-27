@@ -46,4 +46,4 @@ This will generate:
 
 If you use this code in your research, please cite our paper:
 
-> Botao Wang, Xinnian Wang. "PCCF: A Predictive Coding Contextual Framework for Adaptive Artificial Intelligence". *Neural Computing and Applications* (Submitted).
+> Botao Wang, Xinnian Wang. "Simulating 'Vipassana': Regulating Precision Weights to Mitigate Rigidity and Hallucination in Large Language Models". *Cognitive Systems Research* (Draft).
