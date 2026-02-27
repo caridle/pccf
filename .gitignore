@@ -1,0 +1,12 @@
+# Generated Files
+__pycache__/
+*.pyc
+*.png
+*.svg
+*.csv
+*.log
+
+# Paper Drafts
+PCCF_SCI_Draft.md
+PCCF_Analysis_and_Verification.md
+paper.md
